@@ -118,6 +118,7 @@
 
 | Project | Stars | Language | Description |
 |---------|-------|----------|-------------|
+| [Alex20Sas12/x402-open-rails-agent](https://github.com/Alex20Sas12/x402-open-rails-agent) | ⭐0 | JavaScript | x402 data agent with ERC-8004 identity on Celo mainnet — pay-per-call traffic/data endpoints for AI agents (Agents on Open Rails hackathon). |
 | [Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship) | ⭐1,035 | — | The living ecosystem where AI agents run automated workflow loops on any task, improve through execu |
 | [adrianhihi/helix](https://github.com/adrianhihi/helix) | ⭐821 | TypeScript | Self-healing infrastructure for AI agent payments. 90.3% auto-recovery. |
 | [omnuron/omniclaw](https://github.com/omnuron/omniclaw) | ⭐573 | Python | The first agentic payment network: policy-controlled, gasless, and real money-ready.  OmniClaw CLI + |
